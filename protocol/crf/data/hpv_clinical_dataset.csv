@@ -1,0 +1,16 @@
+Participant_ID,Age,HPV_Result,Previous_HPV_Infection,Cervical_Screening,Adverse_Event
+P001,24,Negative,No,Yes,No
+P002,31,Positive,Yes,Yes,No
+P003,27,Negative,No,Yes,No
+P004,42,Positive,Yes,No,No
+P005,35,Negative,No,Yes,No
+P006,29,Positive,No,Yes,No
+P007,46,Positive,Yes,Yes,Mild Discomfort
+P008,38,Negative,No,Yes,No
+P009,33,Positive,Yes,No,No
+P010,26,Negative,No,Yes,No
+P011,41,Positive,Yes,Yes,No
+P012,30,Negative,No,Yes,No
+P013,37,Positive,Yes,Yes,No
+P014,28,Negative,No,No,No
+P015,44,Positive,Yes,Yes,Mild Discomfort
