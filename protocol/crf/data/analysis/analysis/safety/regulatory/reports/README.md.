@@ -1,0 +1,55 @@
+## Repository Structure
+
+### protocol
+
+* Study Protocol
+
+### consent
+
+* Informed Consent Form
+
+### crf
+
+* Case Report Form (CRF)
+
+### data
+
+* Clinical Trial Dataset
+
+### analysis
+
+* Clinical Data Analysis
+* Python and SQL Analysis
+
+### safety
+
+* Adverse Event Log
+
+### regulatory
+
+* Regulatory Compliance Checklist
+
+### reports
+
+* Clinical Study Report (CSR)
+
+## Key Clinical Research Competencies
+
+* Clinical Research Support
+* Clinical Trial Documentation
+* Good Clinical Practice (GCP)
+* ICH-GCP Awareness
+* Clinical Data Management
+* Data Validation
+* Case Report Forms (CRFs)
+* Informed Consent Process
+* Adverse Event Reporting
+* Regulatory Compliance
+* Healthcare Data Analytics
+* Research Reporting
+
+## Project Outcome
+
+This repository simulates the complete workflow of a clinical research study, including protocol development, participant documentation, clinical data management, safety monitoring, regulatory compliance review, and final study reporting.
+
+The project demonstrates practical knowledge relevant to Clinical Research Associate (CRA), Clinical Research Coordinator (CRC), Clinical Trial Assistant (CTA), Clinical Data Management, and Healthcare Data Analyst roles.
